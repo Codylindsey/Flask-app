@@ -1,4 +1,7 @@
-# Flask-app
+# Flask Project
 
-# Cody Lindsey
-# I have my assignment in a zip file
+## Student Name
+Cody Lindsey
+
+## Project Name
+Flask-app
